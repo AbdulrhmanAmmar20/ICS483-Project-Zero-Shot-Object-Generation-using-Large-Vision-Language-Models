@@ -2,9 +2,11 @@
 We’re reimplementing AnyDoor, a zero-shot diffusion model that “teleports” a chosen object into a new scene at a user-specified spot. It preserves identity (logos, textures, lighting) via a Detail Extractor. We’ll test robustness on “impossible” geometry placements and improve inference for user-captured photos.
 
 ## Authors
-Abdulrahman Ammar,
-Omar Bahaeldin Abdalla,
-Mohammed Al Sheqaih
+ - Paper Authors:
+   Xi Chen, Lianghua Huang, Yu Liu, Yujun Shen, Deli Zhao, and Hengshuang Zhao.
+
+- Our Team:
+  Abdulrahman Ammar, Omar Bahaeldin Abdalla, Mohammed Al Sheqaih
 
 ## Project Title
 Zero-Shot Object Teleportation via High-Fidelity Image Customization
