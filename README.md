@@ -22,5 +22,6 @@ This project explores zero-shot object-level image generation through the reimpl
 We will evaluate the model’s robustness on challenging (“impossible”) geometry placements—such as mounting rigid objects on soft or irregular surfaces—and enhance the inference pipeline for greater adaptability to custom, user-captured photos. Evaluation datasets include VITON-HD, DreamBench, and a small custom dataset of 30–50 personally photographed items (like backpacks, shoes, tools) to demonstrate real-world performance.
 
 Reference Paper: AnyDoor: Zero-Shot Object-Level Image Customization (CVPR 2024)
+https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_AnyDoor_Zero-shot_Object-level_Image_Customization_CVPR_2024_paper.pdf
 
 Reference Repository: https://github.com/ali-vilab/AnyDoor
