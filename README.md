@@ -1,5 +1,11 @@
 # ICS483-Project-Zero-Shot-Object-Generation-using-Large-Vision-Language-Models
 We’re reimplementing AnyDoor, a zero-shot diffusion model that “teleports” a chosen object into a new scene at a user-specified spot. It preserves identity (logos, textures, lighting) via a Detail Extractor. We’ll test robustness on “impossible” geometry placements and improve inference for user-captured photos.
+
+## Authors
+1- Abdulrahman Ammar
+2- Omar Bahaeldin Abdalla
+3- Mohammed Al Sheqaih
+
 ## Project Title
 Zero-Shot Object Teleportation via High-Fidelity Image Customization
 
