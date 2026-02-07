@@ -17,7 +17,7 @@ This project addresses that issue by reimplementing and extending AnyDoor (CVPR 
 ## Brief Project Overview
 This project explores zero-shot object-level image generation through the reimplementation of AnyDoor, a state-of-the-art diffusion framework for high-fidelity object teleportation. The model operates without fine-tuning and integrates a Detail Extractor module to preserve detailed object identity and lighting consistency that standard inpainting often degrades.
 
-We will evaluate the model’s robustness on challenging (“impossible”) geometry placements—such as mounting rigid objects on soft or irregular surfaces—and enhance the inference pipeline for greater adaptability to custom, user-captured photos. Evaluation datasets include VITON-HD, DreamBench, and a small custom dataset of 30–50 personally photographed items (e.g., backpacks, shoes, tools) to demonstrate real-world performance.
+We will evaluate the model’s robustness on challenging (“impossible”) geometry placements—such as mounting rigid objects on soft or irregular surfaces—and enhance the inference pipeline for greater adaptability to custom, user-captured photos. Evaluation datasets include VITON-HD, DreamBench, and a small custom dataset of 30–50 personally photographed items (like backpacks, shoes, tools) to demonstrate real-world performance.
 
 Reference Paper: AnyDoor: Zero-Shot Object-Level Image Customization (CVPR 2024)
 Reference Repository: https://github.com/ali-vilab/AnyDoor
